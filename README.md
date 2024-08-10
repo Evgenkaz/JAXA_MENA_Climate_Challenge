@@ -22,3 +22,6 @@
  RAM - 64g
  OS - WINDOWS 10
 ```
+### Leaderboard
+
+Validation <b>0.935703</b>, Public <b>0.919311</b>, Private <b>0.919615</b>
